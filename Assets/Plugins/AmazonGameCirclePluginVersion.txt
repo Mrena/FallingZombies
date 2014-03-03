@@ -1,0 +1,73 @@
+Amazon GameCircle Unity Plugin Version 2.1.0
+Amazon GameCircle SDK Version 2.1.0
+Amazon Insights SDK Version 2.0.24
+https://developer.amazon.com/sdk/gamecircle.html
+
+Release Notes Unity Plugin Version 2.1.0:
+    Added GameCircle support for iOS.
+    Renamed / moved "Model" folders to "DataModel".
+    Added sample code.
+    
+Other notes:
+    Amazon GameCircle SDK depends on Amazon Insights and Login with Amazon SDKs.
+
+Files included:
+Assets/Plugins/AmazonCommon/Source/AmazonJavaWrapper.cs
+Assets/Plugins/AmazonCommon/Source/AmazonLogging.cs
+Assets/Plugins/AmazonCommon/Source/MiniJSON/LICENSE.txt
+Assets/Plugins/AmazonCommon/Source/MiniJSON/MiniJSON.cs
+Assets/Plugins/AmazonGameCircleLicense.txt
+Assets/Plugins/AmazonGameCircleNotice.txt
+Assets/Plugins/AmazonGameCirclePlugin/Example/AmazonGameCircleExample.cs
+Assets/Plugins/AmazonGameCirclePlugin/Example/AmazonGameCircleExample.unity
+Assets/Plugins/AmazonGameCirclePlugin/Example/AmazonGameCircleExampleAchievements.cs
+Assets/Plugins/AmazonGameCirclePlugin/Example/AmazonGameCircleExampleBase.cs
+Assets/Plugins/AmazonGameCirclePlugin/Example/AmazonGameCircleExampleGUIHelpers.cs
+Assets/Plugins/AmazonGameCirclePlugin/Example/AmazonGameCircleExampleInitialization.cs
+Assets/Plugins/AmazonGameCirclePlugin/Example/AmazonGameCircleExampleLeaderboards.cs
+Assets/Plugins/AmazonGameCirclePlugin/Example/AmazonGameCircleExampleProfiles.cs
+Assets/Plugins/AmazonGameCirclePlugin/Example/AmazonGameCircleExampleWSAccumulatingNumber.cs
+Assets/Plugins/AmazonGameCirclePlugin/Example/AmazonGameCircleExampleWSHashSet.cs
+Assets/Plugins/AmazonGameCirclePlugin/Example/AmazonGameCircleExampleWSHashSets.cs
+Assets/Plugins/AmazonGameCirclePlugin/Example/AmazonGameCircleExampleWSNumberList.cs
+Assets/Plugins/AmazonGameCirclePlugin/Example/AmazonGameCircleExampleWSNumberListElementCache.cs
+Assets/Plugins/AmazonGameCirclePlugin/Example/AmazonGameCircleExampleWSSyncableNumber.cs
+Assets/Plugins/AmazonGameCirclePlugin/Example/AmazonGameCircleExampleWhispersync.cs
+Assets/Plugins/AmazonGameCirclePlugin/Prefabs/AmazonGameCircleManager.prefab
+Assets/Plugins/AmazonGameCirclePlugin/Source/AGSClient.cs
+Assets/Plugins/AmazonGameCirclePlugin/Source/AchievementsClient/AGSAchievementsClient.cs
+Assets/Plugins/AmazonGameCirclePlugin/Source/AchievementsClient/DataModel/AGSAchievement.cs
+Assets/Plugins/AmazonGameCirclePlugin/Source/GameCircleManager.cs
+Assets/Plugins/AmazonGameCirclePlugin/Source/LeaderboardsClient/AGSLeaderboardsClient.cs
+Assets/Plugins/AmazonGameCirclePlugin/Source/LeaderboardsClient/DataModel/AGSLeaderboard.cs
+Assets/Plugins/AmazonGameCirclePlugin/Source/LeaderboardsClient/DataModel/AGSScore.cs
+Assets/Plugins/AmazonGameCirclePlugin/Source/ProfilesClient/AGSProfilesClient.cs
+Assets/Plugins/AmazonGameCirclePlugin/Source/ProfilesClient/DataModel/AGSProfile.cs
+Assets/Plugins/AmazonGameCirclePlugin/Source/WhispersyncClient/AGSWhispersyncClient.cs
+Assets/Plugins/AmazonGameCirclePlugin/Source/WhispersyncClient/DataModel/AGSGameDataMap.cs
+Assets/Plugins/AmazonGameCirclePlugin/Source/WhispersyncClient/DataModel/AGSLatestStringList.cs
+Assets/Plugins/AmazonGameCirclePlugin/Source/WhispersyncClient/DataModel/AGSSyncable.cs
+Assets/Plugins/AmazonGameCirclePlugin/Source/WhispersyncClient/DataModel/AGSSyncableAccumulatingNumber.cs
+Assets/Plugins/AmazonGameCirclePlugin/Source/WhispersyncClient/DataModel/AGSSyncableElement.cs
+Assets/Plugins/AmazonGameCirclePlugin/Source/WhispersyncClient/DataModel/AGSSyncableList.cs
+Assets/Plugins/AmazonGameCirclePlugin/Source/WhispersyncClient/DataModel/AGSSyncableNumber.cs
+Assets/Plugins/AmazonGameCirclePlugin/Source/WhispersyncClient/DataModel/AGSSyncableNumberElement.cs
+Assets/Plugins/AmazonGameCirclePlugin/Source/WhispersyncClient/DataModel/AGSSyncableNumberList.cs
+Assets/Plugins/AmazonGameCirclePlugin/Source/WhispersyncClient/DataModel/AGSSyncableString.cs
+Assets/Plugins/AmazonGameCirclePlugin/Source/WhispersyncClient/DataModel/AGSSyncableStringElement.cs
+Assets/Plugins/AmazonGameCirclePlugin/Source/WhispersyncClient/DataModel/AGSSyncableStringList.cs
+Assets/Plugins/AmazonGameCirclePlugin/Source/WhispersyncClient/DataModel/AGSSyncableStringSet.cs
+Assets/Plugins/AmazonGameCirclePluginVersion.txt
+Assets/Plugins/Android/AmazonInsights-android-sdk.jar
+Assets/Plugins/Android/assets/api_key.txt
+Assets/Plugins/Android/GameCircleSampleAndroidManifest.xml
+Assets/Plugins/Android/gamecirclesdk.jar
+Assets/Plugins/Android/gcunity.jar
+Assets/Plugins/Android/login-with-amazon-sdk.jar
+Assets/Plugins/Android/res/raw/amazon_gc_prototype.zip
+Assets/Plugins/Android/res/values/amazon_gc_styles.xml
+Assets/Plugins/iOS/AmazonInsightsSDK.a
+Assets/Plugins/iOS/GameCircle.a
+Assets/Plugins/iOS/GameCircle.bundle/GameCircleContents.zip
+Assets/Plugins/iOS/GameCircle.h
+Assets/Plugins/iOS/libGameCircleUnityProxy.a

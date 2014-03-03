@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 0390f4ccdc1fa854aa1d09544e5e714c
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - gun_shot: {fileID: 8300000, guid: 3881371eb50066a45978dc5b4911a36e, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
